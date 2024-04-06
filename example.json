@@ -1,0 +1,15 @@
+{
+    "name": "token1",
+    "description": "NFT1",
+    "image": "https://github.com/anurag105/Spotify-Clone/blob/main/images/spotifylogo.png",
+    "attributes": [
+      {
+        "trait_type": "Trait Name",
+        "value": "Trait Value"
+      },
+      {
+        "trait_type": "Trait Name",
+        "value": "Trait Value"
+      }
+    ]
+  }
